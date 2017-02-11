@@ -1,6 +1,5 @@
 ## bloggles
 
-chronicling learning; markdown, atom, blogging with github, dipping toes into infosec
 
 Blog title is "In Which I Flail About: The Blog"
 
